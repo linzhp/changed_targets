@@ -3,7 +3,7 @@ module uber.com/changed_targets
 go 1.19
 
 require (
-	go.uber.org/atomic v1.7.0
+	go.uber.org/atomic v1.8.0
 	go.uber.org/fx v1.19.2
 )
 
